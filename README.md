@@ -66,7 +66,8 @@ python package_model.py
 
 # 8. Score the unlabelled new shipments batch and assign actions list
 
-python predict_delay.py```
+python predict_delay.py
+```
 
 
 
